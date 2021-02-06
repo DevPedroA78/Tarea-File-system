@@ -10,3 +10,7 @@ fs.writeFile('creato.txt', 'Hola desde node :)', 'utf-8', (error) => {
     }
     console.log('Archivo escrito exitosamente')
 })
+
+
+
+xxx
